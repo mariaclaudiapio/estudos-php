@@ -14,4 +14,4 @@ foreach ($array as $numeral => $nomeNumero) {
 echo "Total: " . count($array) . PHP_EOL; //função mais utilizada atualmente
 echo "Total: " . sizeof($array) . PHP_EOL;
 
-/* fazendo um teste no repositório */
+
